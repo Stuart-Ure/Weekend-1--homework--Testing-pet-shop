@@ -64,15 +64,10 @@ def get_pets_by_breed(cc_pet_shop, breed):
 
 #10
 
-def find_pet_by_name(cc_pet_shop):
-    pets_in_shop = []
-    for pets in cc_pet_shop["pets"]:
-        if pets ["name"] == name:
-            print (pets_in_shop)
-    return pets_in_shop
+# def find_pet_by_name(cc_pet_shop, name):
+#     pets_in_shop = [0]
+#     for name in cc_pet_shop:
+#         return pets_in_shop
 
 
-# def find_pet_by_name(cc_pet_shop, pets):
-#         pet= ("Arthur", pet["name"])
-#         return pet
-
+#12
